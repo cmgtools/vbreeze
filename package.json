@@ -1,9 +1,9 @@
 {
-  "name": "cmt-vbreeze",
+  "name": "cmt-velocity-breeze",
   "title": "Velocity Breeze",
   "version": "1.0.0-alpha1",
   "description": "Velocity Breeze provides default implementation and bootstrapping of Velocity Components using Breeze.",
-  "main": "dist/vbreeze.js",
+  "main": "dist/velocity-breeze.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/cmgtools/vbreeze"

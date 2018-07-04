@@ -17,7 +17,7 @@ module.exports = function( grunt ) {
       		dist: {
         		src: [	'src/**/*.js'
 					],
-        		dest: 'dist/vbreeze.js'
+        		dest: 'dist/velocity-breeze.js'
       		}
     	},
     	uglify: {
@@ -30,7 +30,7 @@ module.exports = function( grunt ) {
 			},
       		main_target: {
 	        	files: {
-	          		'dist/vbreeze.min.js': [ 'dist/vbreeze.js' ]
+	          		'dist/velocity-breeze.min.js': [ 'dist/velocity-breeze.js' ]
 	        	}
       		}
     	}
