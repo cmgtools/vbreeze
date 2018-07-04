@@ -1,0 +1,26 @@
+{
+  "name": "cmt-vbreeze",
+  "title": "Velocity Breeze",
+  "version": "1.0.0-alpha",
+  "homepage": "https://velocity.cmsgtools.org/",
+  "authors": [
+    "Bhagwat Singh Chouhan"
+  ],
+  "description": "Velocity Breeze provides default implementation and bootstrapping of Velocity Components using Breeze.",
+  "keywords": [
+    "cmgtools",
+	"Velocity",
+    "Breeze"
+  ],
+  "license": "GPLv3",
+  "ignore": [
+    ".gitignore",
+    "gruntfile.js",
+    "package.json",
+    "examples"
+  ],
+  "main": "dist/vbreeze.js",
+  "dependencies": {
+    "jquery": "~2.2.*"
+  }
+}
