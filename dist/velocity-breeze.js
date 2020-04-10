@@ -1,5 +1,5 @@
 /**
- * Velocity Breeze - v1.0.0-alpha1 - 2018-07-04
+ * Velocity Breeze - v1.0.0-alpha1 - 2020-04-10
  * Description: Velocity Breeze provides default implementation and bootstrapping of Velocity Components using Breeze.
  * License: GPL-3.0-or-later
  * Author: Bhagwat Singh Chouhan
